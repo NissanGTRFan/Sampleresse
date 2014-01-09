@@ -1,2 +1,1 @@
-Sampleresse
-===========
+This is a test.
